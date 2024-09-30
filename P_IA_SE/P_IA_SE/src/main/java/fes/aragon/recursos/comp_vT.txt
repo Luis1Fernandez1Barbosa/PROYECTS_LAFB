@@ -1,0 +1,20 @@
+El tau neutrino o neutrino tauónico es una partícula elemental que pertenece al grupo de 
+los leptones. De símbolo vt, tiene spin ½, y una masa como mucho un millón de veces menor 
+que la del electrón, pero no nula.
+
+Como tiene una masa tan pequeña, siempre se mueve a una velocidad cercana a la velocidad 
+de la luz, por eso los científicos pensaban que el neutrino carecía de masa, y era por tanto 
+un luxón. Más adelante se descubriría el fenómeno de la oscilación de neutrinos, que consiste 
+básicamente en que los neutrinos cambian constantemente de sabor. Como consecuencia de 
+la oscilación, los neutrinos deben de tener una masa no nula.
+
+No tiene carga eléctrica, y como sólo interacciona a través de la interacción débil (la 
+interacción gravitatoria en el mundo de las partículas es ínfima), es una partícula muy 
+difícil de detectar, y además (debido a la oscilación) es prácticamente indistinguible de 
+los otros dos neutrinos del modelo estándar.
+
+Junto con los tau, forma la tercera generación de leptones, de ahí su nombre de tau neutrino. 
+Su existencia se dedujo inmediatamente después de detectar la partícula tau en una serie de 
+experimentos entre 1974 y 1977 por Martin Lewis Perl con sus colegas en el grupo SLAC–LBL. 
+El descubrimiento del neutrino tauónico fue anunciado en julio de 2000 en la colaboración 
+DONUT (Direct Observation of the NU Tau) del Fermilab.

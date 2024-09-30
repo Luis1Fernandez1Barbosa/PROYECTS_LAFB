@@ -1,0 +1,9 @@
+Los mesones B son mesones compuestos de un antiquark fondo y un quark arriba (B+), abajo (B0), extraño (B0s) o encantado (B+c). 
+La combinación de un antiquark fondo y un quark top se cree que no es posible a causa de la corta vida del quark top. 
+La combinación de un antiquark fondo y un quark fondo no es un mesón B, sino bottomonium.
+
+Los mesones neutrales B, B0 y B0s, oscilan entre su estado partícula y antipartícula. 
+Este fenómeno es conocido como oscilación de partículas neutras. La existencia de oscilaciones de mesones B es una predicción 
+del Modelo Estándar de partículas. Se ha medido en el sistema B0–B0 con margen de error de 0.496 ps−1,1​ y en el sistema B0s–B0s 
+con un error de Δms = 17.77 ± 0.10 (stat) ± 0.07 (syst) ps−1 obtenido por el experimento experimento CDF en Fermilab.​ 
+Una primera estimación del límite inferior y superior del sistema B0s–B0s ha sido realizado por el experimento DØ en Fermilab.

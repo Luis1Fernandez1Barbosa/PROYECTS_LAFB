@@ -1,0 +1,13 @@
+Los mesones D son las partículas más ligeras que contienen quarks encantados. Su interés 
+experimental radica en el estudio de la interacción débil.1​ Antes de 1986, los mesones D 
+extraños (Ds) recibían el nombre de "mesones F".
+
+Como los mesones D son los mesones más ligeros que contienen un único quark encantado 
+(o antiquark), para que se desintegren un quark encantado debe convertirse en un quark de 
+otro sabor. Estas transiciones violan la conservación del encanto, y solamente pueden proceder 
+mediante la interacción débil. En los mesones D, el quark encantado cambia preferentemente en un 
+quark extraño mediante un intercambio de bosones W, por lo tanto el mesón D se desintegra 
+preferentemente en kaones y piones.
+
+Los mesones D fueron descubiertos en 1976 por el detector Mark I en el SLAC.
+

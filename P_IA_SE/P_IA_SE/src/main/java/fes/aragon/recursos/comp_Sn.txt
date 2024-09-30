@@ -1,0 +1,9 @@
+Los bariones sigma son una familia de partículas subatómicas hadrónicas que tienen carga 
+eléctrica elemental de +2, +1, −1, pudiendo también ser neutras. Los bariones sigma contienen 
+tres quarks, dos de los cuales son quarks arriba (u) o quarks abajo (d), siendo el tercero 
+de ellos un quark extraño s (símbolos Σ+, Σ0, Σ−), un quark encantado c (símbolos Σ++c, Σ+c, Σ0c), 
+un quark fondo b (símbolos Σ+b, Σ0b, Σ−b) o un quark cima t (symbols Σ++t, Σ+t, Σ0t). 
+
+Sin embargo, no se espera observar los bariones sigma con quark top ya que el Modelo Estándar 
+predice que tengan una vida media aproximada de 5·10−25 segundos.​ Esto es aproximadamente 20 veces 
+menor que la escala de tiempo de las interacciones fuertes, y por tanto no daría lugar a la formación de hadrones.

@@ -1,0 +1,46 @@
+extends ./layout/index.pug
+block compartircontenido
+    main.container.mt-5 
+        h1 #{pagina}
+        .row 
+            .col-md.col-lg-4.mv-4 
+                .card 
+                    .card-body.infocard
+                        h3=hotelInfo.nombre
+                            img(src="img/svg/building.svg").izquierda
+                        br
+                        h4="Direccion: "+hotelInfo.direccion
+                            img(src="img/svg/signpost-fill.svg").izquierda
+                        br
+                        h4="Telefono: "+hotelInfo.telefono
+                            img(src="img/svg/telephone-fill.svg").izquierda 
+                        br
+                        h4="Correo: "+hotelInfo.correo
+                            img(src="img/svg/envelope-fill.svg").izquierda
+                        br  
+                        br
+                        h3=hotelInfo.gerente.nombre+" "+hotelInfo.gerente.ap_paterno+" "+hotelInfo.gerente.ap_materno
+                            img(src="img/svg/person-badge-fill.svg").izquierda
+                        br
+                        h4="Telefono: "+hotelInfo.gerente.telefono
+                            img(src="img/svg/phone.svg").izquierda
+                        a(href=`/modificarGerente?id_grt=${hotelInfo.gerente.id_grt}&id_htl=${hotelInfo.id_htl}`, class='btn btn-success btn-clock') Cambiar el gerente
+        br
+        h2="Habitaciones"
+        br
+        .row
+            each habitacion in hotelInfo.habitaciones 
+                .col-md.col-lg-4.mv-4 
+                    .card
+                        .card-body.roomcard 
+                            h3="Habitación "+habitacion.nombre 
+                                img(src="img/svg/door-closed-fill.svg").izquierda
+                            h4="Piso "+habitacion.piso
+                                img(src="img/svg/bricks.svg").izquierda 
+                            h4="Refrigerador "+habitacion.refrigerador
+                                img(src="img/svg/arrow-right-square-fill.svg").izquierda
+                            a(href=`/modificarHabitacion?id_hbt=${habitacion.id_hbt}`, class='btn btn-success btn-clock') Modificar
+        br
+        .col-md.col-lg-4.mv-4     
+            a.nav-link(href=`/addHabitacion?id_htl=${hotelInfo.id_htl}`, class='btn btn-primary') Añadir habitación
+

@@ -1,0 +1,24 @@
+El mesón J/ψ (J/psi, o gypsy por su pronunciación inglesa) es una partícula subatómica, 
+concretamente, un mesón de sabor neutro que consta de un quark encanto y un antiquark encanto. 
+
+Los mesones formados por estado ligado de un quark y un antiquark encanto (en inglés charm) 
+se conocen como charmonium, y el mesón J/ψ es el primer estado excitado del charmonium, es decir, 
+la forma de charmonium con la segunda menor masa en reposo. La partícula J/ψ tiene una masa 
+en reposo de 3,0969 GeV/c2 y una vida media de 7,2·10-21 segundos.
+
+La confirmación de que J/Ψ era un mesón quark-antiquark charm, vino de experimentos posteriores 
+y de investigaciones realizadas por físicos teóricos. Así se probó que el quark encantado existía. 
+Pronto se descubrió que la inusual vida de J/ψ se debía a la libertad asintótica, el hecho de 
+que los quarks interaccionan más débilmente a distancias pequeñas que a grandes, al contrario 
+que el resto de partículas con el resto de fuerzas. Resulta que, la distancia típica a la que 
+vibra un objeto que interacciona fuertemente es inversamente proporcional a su masa. Así, los 
+quarks arriba y quarks abajo de los protones y neutrones están más alejados que los quarks 
+encantado dentro de un mesón J/ψ, o los quarks fondo en la partícula Υ. Al estar estos más cerca, 
+sienten menos la fuerza fuerte, y las desintegraciones de ellos se realizan de forma más lenta, 
+explicando así la vida larga de gypsy.
+
+La partícula J/Psi tiene la misma fracción de desintegración en el par de electrón positrón que 
+en el par muón antimuón, ya que es un proceso de corriente neutra en el que interviene el bosón 
+intermediario Z0, y la fracción de desintegración depende de la corriente neutra y corriente axial 
+y son las mismas tantos para los electrones a derechas y a izquierdas que los muones a izquierdas 
+y a derechas. Cv=Tf3-2*(sen(ángulo de weinberg))^2*Q Ca=Tf3.

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      lang="es">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Spring</title>
+</head>
+<body>
+<h1>Página de Inicio</h1>
+<p> Inicio....
+    <span th:text="${saludo}"></span>
+</p>
+<span th:text="${fecha}"></span><br/>
+<img th:src="@{/imagen/aragon.png}"/><br/>
+<form th:action="@{entrada}" method="post">
+    <div>
+        <label for="nombre">Nombre</label>
+        <input type="text" id="nombre" name="nombre"
+               placeholder="Da tu nombre" required="required">
+    </div>
+    <div>
+        <label for="apellido">Apellido</label>
+        <input type="text" id="apellido" name="apellido"
+               placeholder="Da tu apellido" required="required">
+    </div>
+    <br/>
+    <button type="submit">Mandar</button>
+    <br>
+    <div>
+        <span th:text="${datoNombre ne null}?'Hola '+${datoNombre}:''"></span><br/>
+    </div>
+
+</form>
+</body>
+</html>

@@ -1,0 +1,17 @@
+Los bariones omega son una familia de partículas subatómicas hadrónicas que tienen el símbolo Ω, 
+portando una carga eléctrica elemental de +2, +1, −1, pudiendo también ser neutras. Los bariones 
+omega no poseen ningún quark arriba (u) ni quark abajo (d).​ No se espera observar bariones omega 
+que contengan quarks cima ya que el Modelo Estándar predice que tengan una vida media aproximada 
+de 5·10-25 segundos.2​ Esto es aproximadamente 20 veces menor que la escala de tiempo de las 
+interacciones fuertes, y por tanto no daría lugar a la formación de hadrones.
+
+El primer barión omega descubierto fue el Ω−, compuesto de tres quarks extraños, en 1964.​ 
+El descubrimiento fue un gran triunfo en el estudio de los procesos entre quarks, ya que solo fue 
+encontrado después de que su existencia, masa y productos de desintegración habían sido predichos 
+por el físico estadounidense Murray Gell-Mann en 1962 mediante el camino óctuple, y de forma 
+independiente por Yuval Ne'eman. 
+
+Además del barión Ω−, se descubrió una partícula Omega encantada (Ω0c), en el que un quark 
+extraño es sustituido por un quark encanto. El Ω− decae sólo a través de interacciones débiles 
+y por lo tanto tiene una vida media relativamente larga.4​ Los valores de espín (J) y paridad (P)
+ para los bariones no observados se predicen mediante el modelo de quarks.

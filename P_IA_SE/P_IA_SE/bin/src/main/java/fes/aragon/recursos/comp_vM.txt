@@ -1,0 +1,13 @@
+El neutrino muónico es una partícula elemental que pertenece al grupo de los leptones. 
+Tiene espín ½, y una masa muy pequeña, pero no nula
+
+Como tiene una masa tan pequeña, siempre se mueve a una velocidad cercana a la velocidad 
+de la luz, por eso los científicos pensaban que el neutrino carecía de masa, y era por 
+tanto un luxón. Más adelante se descubriría el fenómeno de la oscilación de neutrinos, 
+que consiste básicamente en que los neutrinos cambian constantemente de sabor. Como 
+consecuencia de la oscilación, los neutrinos deben de tener una masa no nula.
+
+No tiene carga eléctrica, y como sólo interacciona a través de la interacción débil 
+(la interacción gravitatoria en el mundo de las partículas es ínfima), es una partícula 
+muy difícil de detectar, y además (debido a la oscilación) es prácticamente indistinguible 
+de los otros dos neutrinos del modelo estándar.

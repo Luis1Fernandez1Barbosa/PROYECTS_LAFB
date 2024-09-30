@@ -1,0 +1,10 @@
+En física de partículas, pión (abreviatura del vocablo griego pi meson) es el nombre común de tres 
+partículas subatómicas descubiertas en 1947: π0, π+ y π−. El pión es el mesón más ligero.
+
+Los piones tienen espín cero, y están compuestos por la primera generación de quarks. Un quark "up" 
+y otro "anti-down" componen el π+, mientras que un quark "down" y otro "anti-up" componen el π−, 
+su antipartícula. La combinación "up-antiup" y "down-antidown" constituyen el π0, el cual es 
+su propia antipartícula.
+
+El π0 es un poco más ligero, teniendo una masa de 135.0 MeV/c² y una vida media mucho más 
+corta, de 8.4 × 10−17 segundos. La desintegración principal es a dos fotones

@@ -1,0 +1,13 @@
+En física de partículas, el mesón eta (η) y el mesón eta prima (η') son partículas subatómicas descubiertas en 1961; 
+estos mesones están compuestos de una mezcla de quarks arriba, abajo y extraños con sus correspondientes antiquarks.
+El mesón eta encantado (ηc) y el mesón eta inferior (ηb) son formas de quarkonium. Tienen el mismo espín y paridad 
+que los mesones eta ligeros, pero contienen quarks encanto y quarks fondo respectivamente. 
+El quark top es demasiado pesado para formar un mesón similar (mesón eta superior, símbolo ηt), 
+debido a su muy rápida desintegración.
+
+El mesón eta fue descubierto en 1961 en colisiones pión-nucleón en el Bevatron, por A. Pevsner et al., en un momento 
+en que el equipo que propuso la vía óctuple estaba dando lugar a predicciones y descubrimientos de nuevas partículas 
+a partir de consideraciones de simetría.
+
+La diferencia entre la masa de η y la de η' es más grande de lo que el modelo de quarks puede explicar de modo natural. 
+Este rompecabezas η-η' se resuelve con los instantones.

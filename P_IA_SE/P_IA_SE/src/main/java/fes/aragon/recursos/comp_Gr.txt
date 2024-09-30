@@ -1,0 +1,12 @@
+El gravitón es una partícula elemental hipotética de tipo bosónico que sería la transmisora 
+de la interacción gravitatoria en la mayoría de los modelos de gravedad cuántica.
+
+Esta partícula fue teorizada en 1930 por un grupo de científicos, después de varias complicaciones 
+con la creación de una teoría del todo. Se sabía que la luz era un fotón; la carga negativa, un electrón; 
+la masa, un bosón; pero da igual lo que intentasen, la gravedad no conectaba correctamente con las teorías. 
+Para solucionar esto, intentaron asimilarla a una partícula. Aun así, sus matemáticas se desmoronaban. 
+Por esa razón se ideó la teoría de cuerdas, para poder hacer cálculos precisos.
+
+De acuerdo con las propiedades del campo gravitatorio, el gravitón debe ser un bosón de espín par (2 en este caso),
+ya que está asociado a un campo clásico tensorial de segundo orden. En cuanto a la masa del gravitón 
+las mediciones experimentales dan una cota superior del orden de mg = 1,6 × 10−69 kg,3​ aunque podría ser exactamente cero.

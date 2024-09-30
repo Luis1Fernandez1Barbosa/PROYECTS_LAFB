@@ -1,0 +1,10 @@
+En física moderna, el fotón es la partícula elemental  responsable de las manifestaciones cuánticas 
+del fenómeno electromagnético. Es la partícula portadora de todas las formas de radiación 
+electromagnética, incluidos los rayos gamma, los rayos X, la luz ultravioleta, la luz visible, 
+la luz infrarroja, las microondas y las ondas de radio.
+
+El fotón no tiene masa,tampoco posee carga eléctrica10​ y no se desintegra espontáneamente en el vacío. 
+El fotón tiene dos estados posibles de polarización que pueden describirse mediante tres parámetros 
+continuos: las componentes de su vector de onda, que determinan su longitud de onda y su dirección de 
+propagación. El fotón es el bosón de gauge de la interacción electromagnética, y por tanto todos los 
+otros números cuánticos —como el número leptónico, el número bariónico, o la extrañeza— son exactamente cero.

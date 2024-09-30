@@ -1,0 +1,20 @@
+Patícula subatómica con propiedades similares al electrón pero con una masa 200 veces mayor, 
+puede tener carga eléctrica negativa, su antiparticula carga eléctrica postiva. Su vida media 
+es de 2 millonésimas de segundo después de este tiempo se desintegra espontáneamente en un 
+electrón y dos neutrinos.
+
+El muón (que toma su nombre de la letra griega mu, µ) es una partícula elemental masiva que 
+pertenece a la segunda generación de leptones. Su spin es 1/2, Posee carga eléctrica negativa, 
+como el electrón, aunque su masa es 200 veces mayor, y su vida es algo más larga que otras 
+partículas inestables (2.2µs). 
+
+Está asociada con su correspondiente antipartícula el antimuón (µ+).
+
+El muón fue la primera partícula elemental descubierta que no pertenecía a los átomos 
+convencionales. Lo descubrió Carl D. Anderson en 1936 mientras estudiaba la radiación cósmica, 
+al detectar la presencia de partículas que se curvaban al pasar por un campo electromagnético de 
+forma distinta a los electrones y a otras partículas conocidas, con una curvatura intermedia 
+entre el electrón y el protón. Supuso que la carga eléctrica era igual a la del electrón y 
+su masa intermedia entre ambos, por lo que la llamó en un principio mesotrón (del griego meso, 
+intermedio). Pero al aparecer más tarde nuevas partículas intermedias, que adoptaron el nombre 
+genérico de mesones, se vio en la necesidad de diferenciar tal partícula, que pasó a llamarse µ-mesón.

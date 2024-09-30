@@ -1,0 +1,88 @@
+.navegacion  {
+    /*background-image: url("/img/text_ama.jpg");*/
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(253,187,45,1) 100%);
+    background-size: 100% 100%;
+    position: static;
+}
+
+.whitetext{
+    color: whitesmoke;
+}
+.centertext{
+    text-align: center;
+}
+.indexbackground{
+    background-image: url("/img/manzanas.png");
+    background-repeat: no-repeat;
+    
+}
+
+.footer {
+    background-color: #f8e537;
+    color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+header .nav a {
+    font-family: 'Staatliches', cursive;
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+}
+
+.lista-iconos {
+    /*background-color: rgb(252, 161, 134);*/
+    background-color: rgb(221, 221, 221, 0.8);
+    
+}
+.lista-iconos img {
+    height:250px;
+}
+
+.izquierda {
+    /*width: 50%;*/
+    /*margin: 20px auto;*/
+    
+    /*padding: 15px;*/
+    float: left;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-top: 10px;
+    /*display: flex;*/
+	/*justify-content: space-between;*/
+     
+}
+
+.footerfix {
+    margin-top: 8px;
+}
+
+.hotelcard {
+    background-image: url("/img/HotelCard.jpg");
+    border: 5px solid green;
+    background-repeat: no-repeat;
+    width: 351px;
+    height: 198px;
+    display: block;
+}
+
+.infocard{
+    border:2px solid red;
+    background-image: url("/img/InfoCard2.jpg");
+    background-repeat: no-repeat;
+}
+
+.roomcard {
+    border-radius: 15px;
+    border:4px solid #2596be;
+    outline:4px solid red;
+    background-image: url("/img/RoomCard.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 45% 50%;
+}
+

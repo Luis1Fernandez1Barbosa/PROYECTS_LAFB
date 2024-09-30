@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      lang="es">
+<head th:replace="plantillas/plantilla :: head"></head>
+<body>
+<header th:replace="plantillas/plantilla :: header"></header>
+<main class="container text-center">
+    <h1>Clientes Actuales</h1><br/>
+    <div class="card">
+        <h4 class="card-header"><strong>Tabla de Clientes</strong></h4>
+        <div class="card-body">
+            <div>
+                <table class="table table-striped table-hover table-sm">
+                    <thead class="table-dark table-bordered">
+                        <tr>
+                            <th scope="col">Nombre</th>
+                            <th scope="col">Apellido</th>
+                            <th scope="col">Correo</th>
+                        </tr>
+                    </thead>
+                        <tbody>
+                            <tr th:each="l: ${lista}">
+                                <td th:text="${l.nombre}"></td>
+                                <td th:text="${l.apellido}"></td>
+                                <td th:text="${l.correo}"></td>
+                            </tr>
+                        </tbody>
+                    <tfoot>
+                    <tr>
+                        <th scope="row">Totales</th>
+                        <td th:text="${lista.size()}"></td>
+                    </tr>
+                    </tfoot>
+                </table>
+                <div>
+                    <a class="btn btn-primary" th:href="@{/correos/agregar-correo}">Agregar</a>
+                </div>
+                <div>
+                    <a class="btn btn-primary" th:href="@{/principal}">Inicio</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</main>
+<footer th:replace="plantillas/plantilla :: footer"></footer>
+</body>
+</html>

@@ -1,0 +1,10 @@
+En física de partículas, un kaón (también conocido como mesón K) es cualquier partícula del 
+grupo de cuatro mesones que tienen un número cuántico llamado extrañeza. A pesar de que se 
+generaban mediante interacción fuerte el hecho inesperado de que decayeran por interacción 
+débil hacía que estos tuvieran una vida media mayor de la prevista. Por este motivo fueron 
+llamadas en un inicio como "partículas extrañas" lo que acabó por dar nombre al nuevo número 
+cuántico descubierto, la extrañeza. En el modelo quark los kaones contienen dos quarks, siendo 
+uno de ellos un quark o antiquark extraño.
+
+El K0 (consistente en un quark abajo y un antiquark extraño), con una masa de 497,648 ±\pm  0,022 MeV. 
+Tiene un radio cuadrático medio de carga de -0,076 ±\pm  0,018 fm².

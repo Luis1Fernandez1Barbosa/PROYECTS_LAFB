@@ -1,0 +1,29 @@
+extends ./layout/index.pug
+block compartircontenido 
+    main.container.mt-5 
+    h1.text-center.mt-5 #{pagina}
+        .row 
+            .col-md-12
+                if(errores)
+                    each error in errores
+                        .alert.col.alert-danger.text-center=error.mensaje
+            .row.justify-content-center.col     
+                .col-md-8
+                    form(action="/addGerente" method="POST")
+                        .form-group 
+                            label(for="id_grt") ID gerente
+                            input#id_grt(type="text", placeholder="identificador del gerente", name="id_grt", class="form-control", value=id_grt, readonly="readonly")
+                        .form-group    
+                            label(for="nombre") Nombres del gerente
+                            input#nombre(type="text",placeholder="Nombres", name = "nombre", class="form-control",value=nombre)
+                        .form-group    
+                            label(for="ap_paterno") Apellido Paterno 
+                            input#ap_paterno(type="text",placeholder="Apellido Paterno", name = "ap_paterno", class="form-control",value=ap_paterno)
+                        .form-group    
+                            label(for="ap_materno") Apellido Materno 
+                            input#ap_materno(type="text",placeholder="Apellido Materno", name = "ap_materno", class="form-control",value=ap_materno)
+                        .form-group    
+                            label(for="telefono") Telefono
+                            textarea#telefono(type="text",placeholder="Telefono", name = "telefono", class="form-control", row=3)=telefono
+
+                        input.btn.btn-success.btn-block(type="submit")

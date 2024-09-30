@@ -1,0 +1,4 @@
+El barión lambda (Λ0) está compuesto por un quark arriba, uno abajo y un quark extraño, 
+con los quarks arriba y abajo en un estado de espín isotópico 0 (sabor antisimétrico). 
+La observación del lambda neutro supuso la primera evidencia del quark extraño. El barión 
+lambda casi siempre se desintegra en un protón y un pion con carga, o en un neutrón y un pion neutro.

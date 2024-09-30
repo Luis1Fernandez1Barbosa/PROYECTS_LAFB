@@ -1,0 +1,18 @@
+extends ./layout/index.pug
+block compartircontenido    
+    main.container.mt-5 
+        h1 #{pagina} 
+        .row
+            each hotel in hoteles
+                .col-md.col-lg-4.mv-4 
+                    .card 
+                        .card-body.hotelcard
+                            h3="Hotel " + hotel.nombre
+                                img(src="img/svg/building.svg").izquierda
+                            h4="Gerente: "+hotel.gerente.nombre+" "+hotel.gerente.ap_paterno+" "+hotel.gerente.ap_materno
+                            
+                            a(href=`/modificarHotel?id_htl=${hotel.id_htl}`, class='btn btn-success btn-clock') Modificar 
+                            
+                            a(href=`/eliminarHotel?id_htl=${hotel.id_htl}&id_grt=${hotel.gerente.id_grt}`, class='btn btn-danger btn-clock') Eliminar 
+
+                            a(href=`/infoHotel?id_htl=${hotel.id_htl}`, class ='btn btn-info') Ver más

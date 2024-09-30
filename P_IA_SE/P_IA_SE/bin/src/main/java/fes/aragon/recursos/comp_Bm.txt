@@ -1,0 +1,3 @@
+Los mesones B son mesones compuestos de un antiquark fondo y un quark arriba (B+), abajo (B0), extraño (B0s) o encantado (B+c). 
+La combinación de un antiquark fondo y un quark top se cree que no es posible a causa de la corta vida del quark top. 
+La combinación de un antiquark fondo y un quark fondo no es un mesón B, sino bottomonium.

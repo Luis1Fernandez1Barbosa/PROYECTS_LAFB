@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      lang="es">
+<head th:replace="plantillas/plantilla :: head"></head>
+<body>
+    <header th:replace="plantillas/plantilla :: header"></header>
+    <main class="container text-center">
+        <h1>Bienvenido</h1>
+        <img th:src="@{/imagen/aragon.png}"/>
+    </main>
+    <footer th:replace="plantillas/plantilla :: footer"></footer>
+</body>
+</html>

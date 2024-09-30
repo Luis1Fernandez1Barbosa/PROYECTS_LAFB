@@ -1,0 +1,13 @@
+La partícula tau (también llamada a veces tauón) es una partícula elemental masiva 
+que pertenece a la tercera generación de leptones. Tiene una vida media muy corta, 
+de unos 3·10−13 segundos, y una masa de unos 1777 MeV/c² (casi el doble que la del 
+protón y más de 3.000 veces la del electrón).
+
+El tau fue detectado por primera vez a través de unos experimentos dirigidos por 
+Martin Lewis Perl entre 1974 y 1977. Se empleó un nuevo equipo del acelerador de 
+partículas del SLAC, el SPEAR (un colisionador de electrones y positrones); y un nuevo 
+detector magnético, el LBL. Tenían las herramientas necesarias como para poder 
+distinguir con bastante exactitud entre leptones, hadrones y fotones.
+
+El tau es un fermión, con un spin igual a la mitad de la constante reducida de Planck; 
+y como los demás leptones, cumple la simetría CPT con su antipartícula.
