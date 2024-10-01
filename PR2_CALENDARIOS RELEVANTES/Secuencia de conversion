@@ -1,0 +1,54 @@
+-------SECUENCIA DE CONVERSION--------
+****MAYA
+Gregoriano <-> Maya
+Juliano <-> Maya
+
+****EGIPCIO
+Gregoriano <-> Egipcio
+Juliano <-> Egipcio
+
+Egipcio <-> Maya
+
+****HINDU
+Gregoriano <-> Hindu
+Juliano <-> Hindu
+
+Hindu <-> Egipcio
+Hindu <-> Maya
+
+****HEBREO
+Gregoriano <-> Hebreo
+Juliano <-> Hebreo
+
+Hebreo <-> Egipcio
+Hebreo <-> Maya
+Hebreo <-> Hindu
+
+****CHINO
+Gregoriano <-> Chino
+Juliano <-> Chino
+
+Chino <-> Hebreo
+Chino <-> Egipcio
+Chino <-> Maya
+Chino <-> Hindu
+
+****CELTA
+Gregoriano <-> Celta
+Juliano <-> Celta
+
+Celta <-> Hebreo
+Celta <-> Egipcio
+Celta <-> Maya
+Celta <-> Hindu
+Celta <-> Chino
+
+****INCA
+****AZTEK-MEXICA
+****BABILONICO
+****PERSA
+****JAPONES
+****BUDISTA
+
+
+

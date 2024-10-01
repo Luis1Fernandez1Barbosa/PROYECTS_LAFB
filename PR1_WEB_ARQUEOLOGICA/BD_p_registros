@@ -1,0 +1,41 @@
+*****SGBD-ARQUEOLOGIA
+
+BD1 ARQUITECTURA (PIRAMIDES, TEMPLOS, CONSTRUCCIONES)
+
+///Region////  (Mesoamerica, Sudamerica, Europa, Asia Oriental-Sur, Asia Occidental-Central, Africa, Oceania, Rusia-EUA)
+
+1.-Nombre [nombre_edificacion]
+2.-Cultura [cultura]
+3.-Zona arqueologia [zona_arq] (donde se encontro el objeto)
+4.-Estado [estado]
+5.-País [pais]
+6.-Epoca [epoca_ano] (aproximada)
+7.-Tipo de estructura [tipo_estructura]
+8.-Estilo de estructura [estilo_estructura]
+9.- Latitud [latitud] (coordenadas aproximadas)
+10.- Longitud [longitud] (coordenadas aproximadas)
+11.-Material [material] (Adobe, Caliza, tabique)
+12.-Altura de estructura [altura] (en metros)  
+8.-Ancho de estructura [ancho] 
+9.-Largo de estructura [largo]
+10.-Año de hallazgo [hallazgo_ano]
+
+BD2 ESCULTURAS (OBJETOS, PIEZAS)
+
+///Region////  (Mesoamerica, Sudamerica, Europa, Asia Oriental-Sur, Asia Occidental-Central, Africa, Oceania, Rusia-EUA)
+
+1.-Nombre [nombre_escultura]
+2.-Cultura [cultura]
+3.-Zona arqueologia [zona_arq] (donde se encontro el objeto)
+4.-Estado [estado]
+5.-País [pais]
+6.-Epoca [epoca_ano] (aproximada)
+7.- Latitud [latitud] (coordenadas aproximadas)
+8.- Longitud [longitud] (coordenadas aproximadas)
+9.-Material [material] (Ceramica, Barro, Piedra)
+10.-Uso o empleo [uso_empleo] (Ritual, Cotidiano, Guerra, Caza, Cosecha, Decorativo, Desconocido)
+13.-Año de hallazgo [hallazgo_ano]
+
+Imagenes (fotos) van en directorio del servidor, dependiendo la arquitectura de la pagina, se creara tabla en sus respectivas BD, ya sea con la misma imagen en campo ".LONGBLOB" con PKEY, o registrar sus direcciones raiz de cada imagen o el nombre del archivo.
+
+===========YA CONSTRUIDA LA PAG SE TENDRA EN CUENTA AGREGAR UNA BD DE PINTURAS, CODICES, PINTURAS RUPESTRES, MURALES DE LAS CULTURAS MENCIONADAS

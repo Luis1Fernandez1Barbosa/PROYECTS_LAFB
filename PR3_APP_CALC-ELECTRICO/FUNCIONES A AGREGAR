@@ -1,0 +1,93 @@
+=======CALCULOS A REALIZAR EN PAG======
+--LEY DE WATT
+	Potencia Electrica
+	P = I x V
+
+--LEY DE COULOMB
+
+--LEY AMPERE   
+      “La circulación del campo magnético a lo largo de una línea cerrada es equivalente a la suma algebraica de las intensidades de las corrientes que atraviesan la superficie delimitada por la línea cerrada, multiplicada por la permitividad del medio. En concreto para el vacío”  
+
+                       B = μ · I · N / L
+
+      Flujo del campo magnetico para un toroide circular
+                    B = μ · I · N / 2 · ¶ · R
+      Flujo del campo magnetico en un solenoide cilindrico
+
+                    B = μ · N · I
+
+--LEY FARADAY
+    "En un circuito cerrado muy delgado en el cual varía el flujo magnético se induce una fuerza electromotriz (FEM) proporcional a la variación temporal del flujo"
+
+                    FEM = dՓ/dt
+
+--LEY DE LENZ
+      La ley de Lenz está relacionada con la ley de inducción de Faraday, que relaciona el campo magnético que atraviesa una bobina con la tensión inducida en una bobina. En concreto, la ley de Faraday establece que:
+
+      "la magnitud de la fuerza electromotriz "FEM", (también conocida como tensión) inducida en una bobina de alambre es proporcional a la velocidad de cambio del flujo magnético que pasa por la bobina".
+
+      La FEM inducida tiene un sentido tal que sus efectos tienden a oponerse a las causas que lo producen, Esta ley es una consecuencia del principio de conservación de la energía.
+
+                    FEM = (ε) = -(dՓ/dt)
+
+      El flujo de un campo magnético uniforme a través de un circuito plano viene dado por la siguiente expresión                                                                               
+
+                    Փ = B · S · cos α,I
+
+      Si el conductor está en movimiento el valor del flujo será 
+
+                    dՓ = B · dS · cos α.
+                    
+--LEY DE JOULE
+"La cantidad de calor producido por un conductor eléctrico es directamente proporcional al cuadrado de la intensidad, al valor de la resistencia del conductor y al tiempo, en segundos, durante el cual circule la corriente".
+
+--LEY DE KIRCHOFF
+--LEYES DE MAXWELL
+
+--CALCULO DE SECCION DE CABLE
+	-POR INTENSIDAD [CORRIENTE]
+	-POR POTENCIA 
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+a aplicación va guiando al usuario en la elección del cable según parámetros como el tipo de corriente, el coseno ø, la caída de tensión, la longitud de la línea , el número de líneas en paralelo, la temperatura del conductor y el tipo de instalación.
+
+*Ref UNE 20460-5-52
+
+--CABLE UTILIZAN DOS CONDICIONES
+    -> Intensidad máxima admisible.
+    
+    -> Caída de tensión máxima: 
+	Caída de voltaje máxima para el alimentador más circuito ramal: ≤5%.
+    	Caída de voltaje máxima para el circuito alimentador: ≤3%
+
+--CARACTERÍSTICAS DEL COBRE, COMO PRINCIPAL CONDUCTOR EN LA INSTALACIONES ELECTRICAS
+
+Resistencia de un conductor de cobre al paso de la corriente continua
+                    (R) Resistencia eléctrica del cobre puro a 20 ºC= 0,01724 Ω/mm²/m, correspondiente a una conductividad del 100 %
+
+Coeficiente térmico
+                    (α) Coeficiente de temperatura del cobre puro 3,93 mΩ/ºC = 0,00393 Ω/ºC
+
+Densidad volumetrica
+                    (ƿ) (Densidad) Peso del cobre puro 8,89 Kgr./L
+
+------------------------------
+http://www.montajesalhama.com/formulas-para-calculos/
+
+El cálculo de la sección de cable necesaria se realiza en función de la caída de tensión. La fórmula para realizar el cálculo es la siguiente:
+
+Sabiendo que:
+
+S: Sección del cable en mm2
+P: Potencia del consumo en vatios
+L: Longitud en metros
+γ: Conductividad m/(Ω∙mm²) (ver tabla)
+e: Caída de tensión en voltios
+U: Voltaje en voltios    	
+    	
+    	
